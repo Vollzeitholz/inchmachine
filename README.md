@@ -1,4 +1,5 @@
 Inch Machine
+
 Turn a knob to dial a value; the other row converts live. Push a knob (click, Enter or Space) to choose what its window shows, turn to pick, push again to confirm. Slide the lever under a row to set the last window that counts. The panel is drawn at 4:3 and scales to fit a tablet or a phone held sideways.
 
 
